@@ -1,6 +1,6 @@
 # Ansible
 
-A playbook used to setup new machines.
+A playbook used to setup a new machine.
 
 ## How to
 
